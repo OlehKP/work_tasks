@@ -1,0 +1,43 @@
+# HTML/CSS Profile Website
+
+A simple personal profile website created with HTML and CSS.
+
+## Getting Started
+
+These instructions explain how to open and view the website on your local machine.
+
+### Prerequisites
+
+You need:
+- A web browser (e.g. Chrome)
+- A code editor (e.g. Visual Studio Code or IntelliJ IDEA)
+
+### Installation
+
+1. Clone or download the repository.
+2. Open the `frontend/html-basics` folder.
+3. Open `index.html` in your web browser.
+
+No additional installation is required.
+
+## Usage
+
+The website contains:
+- A personal introduction
+- Information about my apprenticeship
+- An overview of the IT skills I have learned
+
+The website uses CSS for styling and responsive design.
+
+## Technologies
+
+- HTML5
+- CSS3
+
+## Project Structure
+
+- frontend/html_basics/ – HTML exercises
+
+- frontend/css_basics/ – CSS stylesheets
+
+- frontend/img/ – Images used in the website
