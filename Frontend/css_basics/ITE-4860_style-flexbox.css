@@ -35,15 +35,22 @@ hr {
 #link:hover {
   color: #1a2649;
 }
-
+/*change*/
 .profil_container {
   display: flex;
   flex-direction: row;
-  align-items: center;
   gap: 20px;
 }
 
-.profil_container img {
-  width: 150px;
-  height: auto;
+
+.head_container {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  background-color: #9ca9ce;
+
+
 }
