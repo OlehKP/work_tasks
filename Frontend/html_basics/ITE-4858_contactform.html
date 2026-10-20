@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Kontaktformular</title>
+</head>
+<body>
+<h1>Kontaktformular</h1>
+
+<form action="" method="post">
+  <label for="user_name">Name:</label>
+  <input
+    type="text"
+    id="user_name"
+    name="user_name"
+    required
+  >
+  <br><br>
+
+  <label for="user_email">E-Mail:</label>
+  <input
+    type="email"
+    id="user_email"
+    name="user_email"
+    required
+  >
+  <br><br>
+
+  <label for="user_subject">Betreff:</label>
+  <input
+    type="text"
+    id="user_subject"
+    name="user_subject"
+    required
+  >
+  <br><br>
+
+  <label for="user_message">Nachricht:</label>
+  <textarea
+    id="user_message"
+    name="user_message"
+    required
+  ></textarea>
+  <br><br>
+
+  <button type="submit">Absenden</button>
+</form>
+</body>
+</html>
